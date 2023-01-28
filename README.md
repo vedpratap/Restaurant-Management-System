@@ -13,3 +13,5 @@ CRUD Application using Vue.js &amp; json-server.
 `npm install`
 - Run the app.
 `npm run serve`
+- Your application should be up and running at  `http://localhost:8080/`
+- Copy the  `http://localhost:8080/` and paste it in browser or press (ctrl+link).
