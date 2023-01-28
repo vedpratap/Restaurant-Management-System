@@ -10,6 +10,6 @@ CRUD Application using Vue.js &amp; json-server.
 `json-server --watch db.json`
 - Open `frontend` folder in VS Code.
 - Go to terminal and install the app.
-`npm `
+`npm install`
 - Run the app.
 `npm run serve`
