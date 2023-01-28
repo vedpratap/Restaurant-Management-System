@@ -1,6 +1,13 @@
 # Restaurant-Management-System
 CRUD Application using Vue.js &amp; json-server.
 
+# Features
+
+- Signup for new users and Login for registered users.
+- Creation of a new restaurant details and Deletion and Modification of an existing data.
+- Switch task among three different categories : todo, doing and done.
+- Home page to check all the previously added details.
+
 # How to run the Application.
 - Install `Node.js` in your system. [Click Here to download.](https://nodejs.org/en/)
 - Download the code as a zip and extract it in a folder.
